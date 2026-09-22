@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Routine du jour</string>
+    <string name="msg_todo">Attention, tu n\'as pas fait ta routine du jour</string>
+    <string name="msg_done">Super, la routine du jour est faite</string>
+    <string name="btn_done">Oui, c\'est fait pour aujourd\'hui</string>
+    <string name="btn_undo">Finalement non, pas encore fait</string>
+    <string name="reminders">Rappels</string>
+    <string name="mode_widget">Widget seulement</string>
+    <string name="mode_fixed">Widget + une notification à heure fixe</string>
+    <string name="mode_repeat">Widget + notifications répétées jusqu\'à validation</string>
+    <string name="reminder_time">Heure du rappel : %1$02d:%2$02d</string>
+    <string name="repeat_every">Répéter toutes les :</string>
+    <string name="every_15">15 min</string>
+    <string name="every_30">30 min</string>
+    <string name="every_60">1 h</string>
+    <string name="channel_name">Rappel de routine</string>
+    <string name="notif_title">Routine du jour</string>
+    <string name="notif_action_done">C\'est fait</string>
+    <string name="widget_desc">Indique si la routine du jour est faite</string>
+</resources>
